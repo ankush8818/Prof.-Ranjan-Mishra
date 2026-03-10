@@ -1,5 +1,19 @@
 # Prof. Ranjan Mishra
-**Professor** | [Google Scholar Profile](https://scholar.google.com/citations?user=ap-S9loAAAAJ&hl=en)
+**Professor** | *[Insert University/Department Name]* Email: ranjan.mishra@example.edu | [Google Scholar](https://scholar.google.com/citations?user=ap-S9loAAAAJ&hl=en) | [LinkedIn](#)
+
+---
+
+## 👨‍🏫 About Me
+Welcome to my academic homepage. I am a Professor at [University Name], specializing in [Insert Area of Expertise, e.g., Wireless Communications, Embedded Systems]. My research focuses on [Insert brief 1-2 sentence description of research goals]. 
+
+## 🔬 Research Interests
+* Topic 1 (e.g., Antenna Design)
+* Topic 2 (e.g., Frequency Selective Surfaces)
+* Topic 3 (e.g., Vehicular Communication)
+
+## 📝 Selected Publications
+1. **Mishra, R.**, & Co-Author, A. (2025). "Title of the Paper." *Journal of Academic Excellence*, 12(3), 45-60. [Link to Paper](#)
+2. **Mishra, R.**, et al. (2024). "Another Great Research Paper." *International Conference on Engineering*. [Link to Paper](#)
 
 ---
 
