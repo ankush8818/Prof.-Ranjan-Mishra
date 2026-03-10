@@ -1,10 +1,23 @@
 # Prof. Ranjan Mishra
-**Professor** | *[Insert University/Department Name]* Email: ranjan.mishra@example.edu | [Google Scholar](https://scholar.google.com/citations?user=ap-S9loAAAAJ&hl=en) | [LinkedIn](#)
+
+<div style="float: right; margin-left: 20px; width: 250px;">
+  <img src="ranjan_mishra.png" alt="Prof. Ranjan Mishra" style="border-radius: 8px; border: 1px solid #ccc; width: 100%; height: auto;">
+</div>
+
+**Professor** | *School of Engineering and Technology, Mody University of Science and Technology* | [Google Scholar](https://scholar.google.com/citations?user=ap-S9loAAAAJ&hl=en) 
 
 ---
 
 ## 👨‍🏫 About Me
-Welcome to my academic homepage. I am a Professor at [University Name], specializing in [Insert Area of Expertise, e.g., Wireless Communications, Embedded Systems]. My research focuses on [Insert brief 1-2 sentence description of research goals]. 
+Dr. Ranjan Mishra has over 25 years of distinguished experience in teaching, research, and academic administration. He completed his graduation from the University of Burdwan and further enriched his academic career through his association with reputed institutions such as NIST (Odisha), ICFAI University (Dehradun), UPES (Dehradun), and Mody University of Science and Technology (Rajasthan).
+
+Known for his approachable and student-friendly teaching style, Dr. Mishra emphasizes conceptual clarity and practical understanding in the classroom. His dedication to mentoring and academic guidance has endeared him to generations of students.
+
+Dr. Mishra has made significant research contributions, with over 90 publications in reputable journals and conferences and more than 1,000 citations to his work. He has also successfully supervised six Ph.D. scholars, reflecting his strong commitment to research mentorship and academic development.
+
+Currently, he serves as a Professor at Mody University of Science and Technology, Lakshmangarh, a leading Women's university where he continues to contribute actively to its School of Engineering and Technology. Located in Lakshmangarh, Sikar, Rajasthan, the university harmoniously blends India’s rich cultural values with a modern global outlook. It offers a diverse range of academic programs across disciplines such as Engineering, Liberal Arts and Sciences, Management, Pharmacy, Law, and Design, fostering interdisciplinary learning and innovation.
+
+With a strong global outlook, the university has established strategic collaborations with more than 20 international universities, providing students with valuable global exposure, collaborative learning opportunities, and industry-aligned education. Driven by a commitment to excellence, the university continues to move forward by combining state-of-the-art infrastructure, academic rigor, and a vibrant learning ecosystem. Through this holistic approach, it strives to empower and nurture the next generation of women leaders, equipping them with the knowledge, confidence, and skills required to excel in an increasingly competitive global landscape.
 
 ## 🔬 Research Interests
 * Topic 1 (e.g., Antenna Design)
@@ -12,8 +25,7 @@ Welcome to my academic homepage. I am a Professor at [University Name], speciali
 * Topic 3 (e.g., Vehicular Communication)
 
 ## 📝 Selected Publications
-1. **Mishra, R.**, & Co-Author, A. (2025). "Title of the Paper." *Journal of Academic Excellence*, 12(3), 45-60. [Link to Paper](#)
-2. **Mishra, R.**, et al. (2024). "Another Great Research Paper." *International Conference on Engineering*. [Link to Paper](#)
+*Please refer to [Google Scholar](https://scholar.google.com/citations?user=ap-S9loAAAAJ&hl=en) for a complete list of over 90 publications and 1,000+ citations.*
 
 ---
 
