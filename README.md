@@ -52,5 +52,14 @@ With a strong global outlook, the university has established strategic collabora
 5. **Ms. Sunaina Singh** – (2026)
 6. **Ms. Vartika Dahima** – (2026)
 
+<style>
+  /* Hide the GitHub footer and project maintenance text */
+  footer { display: none !important; }
+  
+  /* Hide the "View this project on GitHub" links in the sidebar/header */
+  header p.view { display: none !important; }
+  header ul { display: none !important; }
+</style>
+
 ---
 *Last updated: March 2026*
