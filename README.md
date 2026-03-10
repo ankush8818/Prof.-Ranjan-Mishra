@@ -1,10 +1,23 @@
-# Prof. Ranjan Mishra
+<style>
+  /* This hides the default GitHub footer and header buttons to make it look like a standalone site */
+  .site-footer { display: none !important; }
+  .page-header { padding: 2rem 2rem !important; }
+  .project-name { display: none !important; }
+  .project-tagline { display: none !important; }
+  .btn { display: none !important; }
+</style>
 
-<div style="float: right; margin-left: 20px; width: 250px;">
-  <img src="ranjan_mishra.png" alt="Prof. Ranjan Mishra" style="border-radius: 8px; border: 1px solid #ccc; width: 100%; height: auto;">
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="ranjan_mishra.png" alt="Prof. Ranjan Mishra" style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin-bottom: 15px;">
+  
+  <h1 style="margin-bottom: 5px; border-bottom: none;">Prof. Ranjan Mishra</h1>
+  <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;"><strong>Professor</strong><br><em>School of Engineering and Technology, Mody University of Science and Technology</em></p>
+  
+  <p>
+    <a href="https://scholar.google.com/citations?user=ap-S9loAAAAJ&hl=en" target="_blank" style="text-decoration: none; font-weight: bold; color: #155799;">🎓 Google Scholar</a> | 
+    <a href="mailto:ranjan.mishra@example.edu" style="text-decoration: none; font-weight: bold; color: #155799;">✉️ Email</a>
+  </p>
 </div>
-
-**Professor** | *School of Engineering and Technology, Mody University of Science and Technology* | [Google Scholar](https://scholar.google.com/citations?user=ap-S9loAAAAJ&hl=en) 
 
 ---
 
@@ -51,15 +64,6 @@ With a strong global outlook, the university has established strategic collabora
 4. **Dr. Tej Raj** – Assistant Professor, Chitkara University, Punjab (2025)
 5. **Ms. Sunaina Singh** – (2026)
 6. **Ms. Vartika Dahima** – (2026)
-
-<style>
-  /* Hide the GitHub footer and project maintenance text */
-  footer { display: none !important; }
-  
-  /* Hide the "View this project on GitHub" links in the sidebar/header */
-  header p.view { display: none !important; }
-  header ul { display: none !important; }
-</style>
 
 ---
 *Last updated: March 2026*
