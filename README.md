@@ -1,10 +1,15 @@
 <style>
-  /* This hides the default GitHub footer and header buttons to make it look like a standalone site */
+  /* Hide the "View on GitHub" and download buttons in the header */
+  .page-header .btn { display: none !important; }
+  a.btn { display: none !important; }
+  
+  /* Hide the GitHub footer */
   .site-footer { display: none !important; }
+  
+  /* Keep the header area clean and small */
   .page-header { padding: 2rem 2rem !important; }
   .project-name { display: none !important; }
   .project-tagline { display: none !important; }
-  .btn { display: none !important; }
 </style>
 
 <div style="text-align: center; margin-bottom: 40px;">
